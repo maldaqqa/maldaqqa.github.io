@@ -1,0 +1,59 @@
+.mainlist{
+    display: inline-block;
+}
+.mainlist li{
+    display: inline-block;
+    padding-left: 10px;
+    padding-bottom: 18px;
+    padding-top: 10px;
+    padding-right: 170px;   
+}
+a{
+    font-style: normal;
+    text-decoration: none;
+    color:white;
+}
+.HeaderList{
+    color: white;
+    height: 70px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    margin-bottom: 1em;
+    width: 100%;
+}
+.title {
+    text-transform: capitalize;
+
+}
+.desc {
+    font-size: 0.9em;
+    color: gray;
+}
+.price {
+    font-weight: 400;
+    font-size: 1.4em;
+}
+input {
+    width: 100%;
+    padding: 0.3em;
+    border: 1px solid rgb(185, 182, 182);
+    margin-bottom: 0.6em;
+}
+label {
+    font-size: 1.3em;
+    margin: 0;
+}
+.display-4 {
+    text-transform: capitalize;
+}
+a {
+    color: black;
+}
+a:hover {
+    text-decoration: none;
+    color: #000;
+}
